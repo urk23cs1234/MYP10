@@ -1,4 +1,3 @@
-yamlcopy
 name: Python Build & Test
 
 on:
